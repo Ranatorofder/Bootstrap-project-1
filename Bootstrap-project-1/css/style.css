@@ -1,0 +1,45 @@
+.carousel-caption {
+    bottom: 10%;
+
+}
+
+.about-conten i {
+    font-size: 35px;
+}
+
+.getting {
+    background-image: url("../images/woman-3214594.jpg");
+    height: 65vh;
+    background-size: cover;
+    background-attachment: fixed;
+    color: azure;
+}
+
+.getting .get {
+    margin-top: 200px;
+}
+
+.galleary {
+    /* background-color: #f2d7d5; */
+}
+
+.section-banner {
+    background-image: url("../images/hot-air-balloon-2411851.jpg");
+    /* height: 221px; */
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: aliceblue;
+
+}
+
+.about-bottom {
+    margin-top: 300px;
+}
+
+.testimonial {
+    background-color: black;
+
+
+}

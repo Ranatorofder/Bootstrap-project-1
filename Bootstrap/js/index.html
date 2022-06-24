@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>js</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+        function validator() {
+            if (document.hellowform.box.checked)
+                alert("this is checked")
+            else
+                alert("this is Unchecked")
+        }
+    </script>
+    <form name="hellowform" action="">
+        <input type="checkbox" name="" id="box">
+        <input type="button" value="click me" onclick="validator()">
+    </form>
+
+</body>
+
+</html>
